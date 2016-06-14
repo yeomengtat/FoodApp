@@ -1,0 +1,8 @@
+<resources>
+    <string name="history">History</string>
+    <string-array name= "sort">
+        <item>Sort by Rating</item>
+        <item>Sort Alphabetically</item>
+    </string-array>
+
+</resources>
